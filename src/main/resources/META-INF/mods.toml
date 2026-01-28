@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "${mod_license}"
+
+[[mods]]
+modId = "daily_case"
+version = "${mod_version}"
+displayName = "Daily Case"
+displayURL = "https://greenbox-studio.gitbook.io/greenbox-studio-docs/minecraft/daily-case-mod"
+logoFile = "icon.png"
+authors = "Sekunde (Greenbox Studio)"
+description = '''Daily Case adds server-synced daily spins with configurable rewards and a simple shop.
+
+Deutsch: Taegliche Spins auf dem Server; Belohnungen und Preise kommen aus der Config; Fortschritt bleibt nach Neustart.'''
+
+[[dependencies."${mod_id}"]]
+modId = "forge"
+mandatory = true
+versionRange = "${forge_version_range}"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies."${mod_id}"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "${minecraft_version_range}"
+ordering = "NONE"
+side = "BOTH"

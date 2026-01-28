@@ -1,0 +1,65 @@
+[
+  {
+    "id": "minecraft:iron_ingot",
+    "rarity": "common",
+    "weight": 50,
+    "minCount": 1,
+    "maxCount": 3
+  },
+  {
+    "id": "minecraft:gold_ingot",
+    "rarity": "common",
+    "weight": 35,
+    "minCount": 1,
+    "maxCount": 3
+  },
+  {
+    "id": "minecraft:emerald",
+    "rarity": "uncommon",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 2
+  },
+  {
+    "id": "minecraft:diamond",
+    "rarity": "rare",
+    "weight": 10,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  {
+    "id": "minecraft:netherite_scrap",
+    "rarity": "epic",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  {
+    "id": "minecraft:totem_of_undying",
+    "rarity": "epic",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  {
+    "id": "minecraft:elytra",
+    "rarity": "legendary",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  {
+    "id": "minecraft:beacon",
+    "rarity": "legendary",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  },
+  {
+    "id": "minecraft:enchanted_golden_apple",
+    "rarity": "legendary",
+    "weight": 1,
+    "minCount": 1,
+    "maxCount": 1
+  }
+]
