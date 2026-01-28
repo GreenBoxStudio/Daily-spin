@@ -2,3 +2,34 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+
+# IDEs / OS
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+Thumbs.db
+.DS_Store
+
+# Runtime / local data (Minecraft/Forge)
+/run/
+/logs/
+/crash-reports/
+/saves/
+/world/
+/screenshots/
+/mods/
+/resourcepacks/
+
+# Generated or temp
+/out/
+/tmp/
+/bin/
+/buildSrc/build/
+/generated/
+
+# Optional: local configs or backups
+*.bak
+*.tmp
