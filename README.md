@@ -1,4 +1,4 @@
-<img width="2021" height="1221" alt="minecraft_title3" src="https://github.com/user-attachments/assets/95daf020-2ca6-45fb-b996-38d783e198e8" />
+<img width="2021" height="1221" alt="minecraft_title3" src="https://github.com/user-attachments/assets/461d22d4-647e-466b-afe2-48a2f325b041" />
 
 
 # Daily Case Mod
